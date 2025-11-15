@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Ivan Maznitsyn</h1>
+<h3 align="center">QA Engineer (Manual → Automation) & Python beginner developer</h3>
 
-<!--
-**imidg1825/imidg1825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Немного обо мне  
+Привет! Я Иван Мазницын — человек, который никогда не стоит на месте.  
+Освоил ручное тестирование (функциональное, нефункциональное, чек-листы, тест-кейсы, баг-репорты).  
+Сейчас двигаюсь дальше — изучаю автоматизацию в SkyPro и параллельно осваиваю Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я здесь, чтобы расти, строить реальные навыки и работать с современными инструментами.
+
+---
+
+### 🔧 Мои текущие скиллы
+
+#### 🧪 **QA (Manual)**
+- Тест-дизайн  
+- Тест-кейсы, чек-листы  
+- Постман (API-тестирование)  
+- Работа с ЁЖкой, Енотом, Jira  
+- Написание баг-репортов  
+- Работа с требованиями  
+
+#### 🖥 **Текущее обучение**
+- Автоматизация тестирования в SkyPro  
+- Python (VS Code, Git, GitHub)  
+- Работа с репозиториями, ветками, pull request  
+
+---
+
+### 🚀 Что я сейчас делаю
+- Пишу первые программы на Python  
+- Осваиваю автоматизацию  
+- Формирую своё IT-портфолио  
+- Улучшаю GitHub  
+- Создаю проекты для практики  
+
+---
+
+### 📫 Как связаться со мной
+**Email:** imidg18251972@gmail.com  
+
+---
+
+### ⚡ Философия
+> Делаю шаг за шагом.  
+> Расту каждый день.  
+> Ответственность, движение, результат.
+
+---
+
+### 🛠 Технологии и инструменты
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🔥 “Ivan Maznitsyn — Python & QA Journey”</h3>
