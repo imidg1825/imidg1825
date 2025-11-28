@@ -117,14 +117,18 @@
 
 👉 [Перейти в репозиторий python_lesson1](https://github.com/imidg1825/python_lesson1)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SkyPro%20Python-ff3333?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-### 🧠 Я изучаю Git здесь
+---
 
-📁 **Git-практика:**  
-➡️ [**git_training_ivan**](https://github.com/imidg1825/git-training-ivan)  
-Практика веток, конфликтов, мерджей, работы с GitGraph и GitHub.  
+### 🧠 **Git-практика**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT%20TRAINING-red?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+👉 **Репозиторий:**  
+[git_training_ivan](https://github.com/imidg1825/git-training-ivan)
+
+🛠 **Изучаю:** ветки, конфликты, мерджи, GitGraph, GitHub flow.
 
 ## ⚡ Факты обо мне
 - 🎱 Моя дочь Арина — призёр областных соревнований по русскому бильярду  
