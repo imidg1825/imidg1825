@@ -120,6 +120,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SkyPro%20Python-ff3333?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+### 🧠 Я изучаю Git здесь
+
+📁 **Git-практика:**  
+➡️ [**git_training_ivan**](https://github.com/imidg1825/git-training-ivan)  
+Практика веток, конфликтов, мерджей, работы с GitGraph и GitHub.  
 
 ## ⚡ Факты обо мне
 - 🎱 Моя дочь Арина — призёр областных соревнований по русскому бильярду  
