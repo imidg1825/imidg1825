@@ -44,12 +44,61 @@
 - API-тестирование (Postman)  
 - Баг-репорты (Ёжка, Jira)  
 - Анализ требований  
-
 ### 🚀 QA Automation (начало)
 
-🧠 **Python**
-- Основы синтаксиса, функции, циклы, работа с файлами
-- Мини-проекты и учебные задачи
+## 🧠 Python
+- 🐍 Базовый синтаксис, переменные, типы данных  
+- 🔁 Циклы, условия  
+- 📁 Работа с файлами (read/write)  
+- 🛠 Мини-проекты и учебные задачи  
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=F7931A&width=250&lines=Python+Beginner" />
+</p>
+
+---
+
+## 🔧 Git / GitHub
+- 🌿 Работа с ветками (branching)
+- 🔀 Слияние и разрешение конфликтов
+- 🧩 GitGraph: визуализация истории
+- 🕙 Откаты: *restore*, *reset*, *revert*
+- 📤 Pull Requests
+- 📝 Оформление README  
+- 💫 Бейджи, кликабельные ссылки, визуальные элементы  
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2F80ED&width=260&lines=Git+%2F+GitHub+Practitioner" />
+</p>
+
+---
+
+## 🧪 PyTest (обучение)
+- 🧱 Структура тестового проекта  
+- 🧪 Создание базовых тестов  
+- 🏷 Маркировки и группировка  
+- ▶️ Запуски через CLI  
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FF2D55&width=210&lines=PyTest+Learner" />
+</p>
+
+---
+
+## 🕷️ Selenium WebDriver
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-Beginner-green?logo=selenium&logoColor=white" />
+</p>
+
+- 🌐 Установка Selenium WebDriver  
+- 🧭 Навигация по страницам  
+- 🔍 Поиск элементов (`find_element`)  
+- 🎯 Действия: `click`, `send_keys`, `get`  
+- 🧪 Первый UI-тест (Google search test)  
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00B894&width=270&lines=Selenium+UI+Automation" />
+</p>
 
 🔧 **Git / GitHub**
 - Работа с ветками (branching)
