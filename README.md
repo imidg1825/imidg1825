@@ -139,7 +139,8 @@
 ---
 
 ## 📫 Связаться со мной
-- Telegram: @Ivan_Maznitsin  
+- 📬 Telegram: [@Ivan_Maznitsin](https://t.me/Ivan_Maznitsin)
+
 - Email: **imidg18251972@gmail.com**
 
 <p align="center">
