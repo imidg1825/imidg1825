@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/imidg1825/imidg1825/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%93%D0%BE%D0%B4.gif" 
+       alt="Новогодняя ёлка" width="380" />
+</p>
+
+
+<p align="center">
   <img src="banner.png.png" alt="Ivan Maznitsyn Banner" />
 </p>
 
