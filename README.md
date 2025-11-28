@@ -139,7 +139,7 @@
 ---
 
 ## 📫 Связаться со мной
-- Telegram: **@твоя_ссылка**  
+- Telegram: @Ivan_Maznitsin  
 - Email: **imidg18251972@gmail.com**
 
 <p align="center">
