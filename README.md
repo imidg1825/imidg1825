@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imidg1825/imidg1825/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%93%D0%BE%D0%B4.gif" 
-       alt="Новогодняя ёлка" width="380" />
+  <img
+    src="https://raw.githubusercontent.com/imidg1825/imidg1825/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%93%D0%BE%D0%B4.gif"
+    alt="Новогодняя ёлка"
+    width="220"
+    style="
+      border-radius: 50%;
+      overflow: hidden;
+      border: 4px solid gold;
+      box-shadow: 0 0 20px rgba(255, 215, 0, 0.9);
+    "
+  />
 </p>
-
-
 <p align="center">
   <img src="banner.png.png" alt="Ivan Maznitsyn Banner" />
 </p>
