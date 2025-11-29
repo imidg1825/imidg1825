@@ -1,3 +1,16 @@
+<p align="center" style="
+  font-size: 26px;
+  font-weight: bold;
+  background: linear-gradient(90deg, #ffd700, #fff6a9, #ffdd55, #ffe680);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 5px rgba(255, 215, 0, 0.7),
+               0 0 10px rgba(255, 215, 0, 0.5),
+               0 0 15px rgba(255, 215, 0, 0.3);
+>
+🎄 С наступающим Новым годом, кобылы! 🐴✨
+</p>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/imidg1825/imidg1825/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%93%D0%BE%D0%B4.gif"
