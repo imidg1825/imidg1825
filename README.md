@@ -132,16 +132,6 @@
 - Основы написания тестов на Python
 - Структура тестового проекта
 
-🕷️ **Selenium WebDriver**
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-Beginner-green?logo=selenium&logoColor=white" />
-</p>
-
-- Установка и настройка Chrome WebDriver  
-- Первый автотест: открытие Google и поиск  
-- Команды: `find_element`, `send_keys`, `click`, `get`  
-- Базовая структура UI-тестов
-
 ### 🗄 SQL
 - SELECT / WHERE  
 - JOIN  
