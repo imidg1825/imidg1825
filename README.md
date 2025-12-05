@@ -19,8 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" alt="Ivan Maznitsyn Banner" width="900" />
+  <img src="github_banner.png" alt="Ivan Maznitsyn — Junior QA Engineer (Manual & Automation, Python)" />
 </p>
+
+---
+
 
 <h1 align="center">💻 Ivan Maznitsyn</h1>
 <h3 align="center" style="color:#ff3333;">QA Engineer (Manual → Automation) & Python Beginner Developer</h3>
