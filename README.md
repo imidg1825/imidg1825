@@ -119,6 +119,11 @@
 - 🔍 Поиск элементов (`find_element`)  
 - 🎯 Действия: `click`, `send_keys`, `get`  
 - 🧪 Первый UI-тест (Google search test)
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00B894&width=270&lines=Selenium+UI+Automation" />
+</p>
+
 ---
 
 ## 🐳 Docker (обучение)
@@ -134,11 +139,6 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2496ED&width=230&lines=Docker+Learner" />
-</p>
-
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00B894&width=270&lines=Selenium+UI+Automation" />
 </p>
 
 🔧 **Git / GitHub**
