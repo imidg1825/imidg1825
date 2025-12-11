@@ -37,24 +37,16 @@
   <img src="https://img.shields.io/badge/SQL-ff3333?style=for-the-badge&logo=postgresql&logoColor=white" />
 <h3 align="center">🧰 Мой стек</h3>
 
-<table align="center">
-  <tr>
-    <td align="right"><strong>Языки:</strong></td>
-    <td align="left">Python</td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Тестирование:</strong></td>
-    <td align="left">Pytest · Selenium · Postman · API</td>
-  </tr>
-  <tr>
-    <td align="right"><strong>DevOps:</strong></td>
-    <td align="left">Docker · Linux/WSL</td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Инструменты:</strong></td>
-    <td align="left">Git · GitHub · VS Code</td>
-  </tr>
-</table>
+<h3 align="center">🧰 Мой стек</h3>
+
+<p align="center">
+
+<b>Языки:</b> Python  
+<b>Тестирование:</b> Pytest · Selenium · Postman · API  
+<b>DevOps:</b> Docker · Linux/WSL  
+<b>Инструменты:</b> Git · GitHub · VS Code  
+
+</p>
 
 ---
 
