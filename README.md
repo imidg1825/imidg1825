@@ -35,30 +35,26 @@
   <img src="https://img.shields.io/badge/Git-ff3333?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff3333" />
   <img src="https://img.shields.io/badge/SQL-ff3333?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-<p align="center">
-
 <h3 align="center">🧰 Мой стек</h3>
 
 <table align="center">
   <tr>
-    <td><strong>Языки</strong></td>
-    <td>Python</td>
+    <td align="right"><strong>Языки:</strong></td>
+    <td align="left">Python</td>
   </tr>
   <tr>
-    <td><strong>Тестирование</strong></td>
-    <td>Pytest · Selenium · Postman · API</td>
+    <td align="right"><strong>Тестирование:</strong></td>
+    <td align="left">Pytest · Selenium · Postman · API</td>
   </tr>
   <tr>
-    <td><strong>DevOps</strong></td>
-    <td>Docker · Linux/WSL</td>
+    <td align="right"><strong>DevOps:</strong></td>
+    <td align="left">Docker · Linux/WSL</td>
   </tr>
   <tr>
-    <td><strong>Инструменты</strong></td>
-    <td>Git · GitHub · VS Code</td>
+    <td align="right"><strong>Инструменты:</strong></td>
+    <td align="left">Git · GitHub · VS Code</td>
   </tr>
 </table>
-
 
 ---
 
