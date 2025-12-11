@@ -38,21 +38,26 @@
 </p>
 <p align="center">
 
-### 🧰 Мой стек
+<h3 align="center">🧰 Мой стек</h3>
 
-**Языки:**  
-Python  
-
-**Тестирование:**  
-Pytest · Selenium · Postman · API  
-
-**DevOps:**  
-Docker · Linux/WSL  
-
-**Инструменты:**  
-Git · GitHub · VS Code  
-
-</p>
+<table align="center">
+  <tr>
+    <td><strong>Языки</strong></td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><strong>Тестирование</strong></td>
+    <td>Pytest · Selenium · Postman · API</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>Docker · Linux/WSL</td>
+  </tr>
+  <tr>
+    <td><strong>Инструменты</strong></td>
+    <td>Git · GitHub · VS Code</td>
+  </tr>
+</table>
 
 
 ---
