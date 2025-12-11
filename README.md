@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff3333" />
   <img src="https://img.shields.io/badge/SQL-ff3333?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+### 🧰 Мой стек
+Python • Pytest • Selenium • Postman • API • Docker • Linux/WSL • Git • GitHub • VS Code
 
 ---
 
