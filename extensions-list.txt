@@ -1,0 +1,47 @@
+# Список установленных расширений VS Code (текущее окружение)
+# Автор: Иван (imidg1825)
+
+# --- Python / качество кода ---
+
+ms-python.python
+    # Официальное расширение Python от Microsoft.
+    # Даёт запуск, отладку, подсветку синтаксиса, интеграцию с тестами и т.п.
+
+ms-python.vscode-pylance
+    # Pylance — "мозг" Python в VS Code.
+    # Анализ кода, подсказки, типы, быстрый поиск ошибок ещё до запуска программы.
+
+usernamehw.errorlens
+    # Error Lens — показывает ошибки и предупреждения прямо в строке кода.
+    # Текст ошибки виден прямо в строке, без наведения мышки.
+
+gruntfuggly.todo-tree
+    # Todo Tree — собирает все TODO, FIXME, BUG и т.п. в отдельное дерево.
+    # Удобно видеть список задач по проекту.
+
+# --- Темы и иконки ---
+
+zhuangtongfa.Material-theme
+    # One Dark Pro — тёмная тема оформления (Night Flat).
+
+samuelroy.fluid-icons
+    # Fluent Icons — современный набор иконок для файлов/интерфейса.
+
+# --- Docker / DevOps / удалённая разработка ---
+
+ms-azuretools.vscode-docker
+    # Docker Extension — работа с контейнерами и образами.
+
+ms-vscode-remote.remote-wsl
+    # Remote - WSL — работа с Ubuntu через WSL в VS Code.
+
+ms-vscode-remote.remote-containers
+    # Dev Containers — разработка прямо в контейнере.
+
+# --- Git / контроль версий ---
+
+mhutchie.git-graph
+    # Git Graph — визуальная история коммитов.
+
+eamodio.gitlens
+    # GitLens — расширенная работа с Git (история строк/файлов, blame и т.п.).
