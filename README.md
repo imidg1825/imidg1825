@@ -37,10 +37,7 @@
   <img src="https://img.shields.io/badge/SQL-ff3333?style=for-the-badge&logo=postgresql&logoColor=white" />
 <h3 align="center">🧰 Мой стек</h3>
 
-<h3 align="center">🧰 Мой стек</h3>
-
 <p align="center">
-
 <b>Языки:</b> Python  
 <b>Тестирование:</b> Pytest · Selenium · Postman · API  
 <b>DevOps:</b> Docker · Linux/WSL  
