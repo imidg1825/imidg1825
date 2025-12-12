@@ -5,64 +5,66 @@
 
 ### 🐍 Python / качество кода
 
-**ms-python.python**  
-— официальное расширение Python от Microsoft  
+**ms-python.python:**  
+— *Официальное расширение Python от Microsoft*  
 — запуск и отладка кода, виртуальные окружения, интеграция с тестами
 
-**ms-python.vscode-pylance**  
-— Pylance: анализ кода и типов  
+**ms-python.vscode-pylance:**  
+— *Pylance — анализ кода и типов*  
 — автодополнение, быстрый поиск ошибок до запуска программы
 
-**charliermarsh.ruff**  
-— Ruff: быстрый линтер и автофикс кода  
+**charliermarsh.ruff:**  
+— *Ruff — быстрый линтер и автофикс кода*  
 — проверка стиля, импортов, потенциальных ошибок (используется вручную)
 
-**ms-python.black-formatter**  
-— Black Formatter  
+**ms-python.black-formatter:**  
+— *Black Formatter*  
 — автоматическое форматирование Python-кода по стандартам PEP8
 
-**usernamehw.errorlens**  
-— Error Lens  
+**usernamehw.errorlens:**  
+— *Error Lens*  
 — отображение ошибок и предупреждений прямо в строке кода
 
-**gruntfuggly.todo-tree**  
-— Todo Tree  
+**gruntfuggly.todo-tree:**  
+— *Todo Tree*  
 — сбор TODO / FIXME / BUG в единое дерево задач по проекту
 
 ---
 
 ### 🎨 Темы и иконки
 
-**zhuangtongfa.Material-theme**  
-— One Dark Pro (Night Flat)  
+**zhuangtongfa.Material-theme:**  
+— *One Dark Pro (Night Flat)*  
 — тёмная тема для комфортной длительной работы
 
-**samuelroy.fluid-icons**  
-— Fluent Icons  
+**samuelroy.fluid-icons:**  
+— *Fluent Icons*  
 — современный и аккуратный набор иконок
 
 ---
 
 ### 🐳 Docker / DevOps / удалённая разработка
 
-**ms-azuretools.vscode-docker**  
+**ms-azuretools.vscode-docker:**  
+— *Docker Extension*  
 — работа с Docker-образами и контейнерами прямо из VS Code
 
-**ms-vscode-remote.remote-wsl**  
+**ms-vscode-remote.remote-wsl:**  
+— *Remote - WSL*  
 — разработка в среде Ubuntu через WSL
 
-**ms-vscode-remote.remote-containers**  
-— Dev Containers  
+**ms-vscode-remote.remote-containers:**  
+— *Dev Containers*  
 — запуск и разработка проекта внутри Docker-контейнеров
 
 ---
 
 ### 🌿 Git / контроль версий
 
-**mhutchie.git-graph**  
-— Git Graph  
+**mhutchie.git-graph:**  
+— *Git Graph*  
 — визуализация истории коммитов и веток
 
-**eamodio.gitlens**  
-— GitLens  
+**eamodio.gitlens:**  
+— *GitLens*  
 — расширенная информация по Git (blame, история строк и файлов)
