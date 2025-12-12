@@ -70,3 +70,4 @@
 **eamodio.gitlens**  
 *GitLens*  
 Расширенная информация по Git: blame, история строк и файлов
+
