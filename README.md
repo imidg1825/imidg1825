@@ -184,14 +184,17 @@
 <summary><b>Показать инструкцию</b></summary>
 
 ### ✅ Вариант 1: WSL (Ubuntu) + VS Code (как у меня)
+
 1) Установи WSL2 + Ubuntu  
 2) Открой VS Code → подключись к **WSL: Ubuntu**  
 3) Поставь расширения: Python, Pylance, Ruff, Black, Docker, Remote WSL  
-4) В проекте:
+4) В проекте выполни команды:
+
 ```bash
 sudo apt update
 sudo apt install -y python3-pip
 pip install -r requirements.txt
+
 ---
 
 ## 📂 Мои проекты
