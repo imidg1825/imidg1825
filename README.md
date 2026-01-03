@@ -8,7 +8,7 @@
   margin-top: 10px;
   margin-bottom: 10px;
 ">
-  🎄 С наступающим Новым годом! 🐴✨
+  🎄 С Новым годом! 🐴✨
 </p>
 
 <p align="center">
