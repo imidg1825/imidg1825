@@ -1,22 +1,3 @@
-<p align="center" style="
-  font-size: 26px;
-  font-weight: bold;
-  background: linear-gradient(90deg, #ffd700, #fff2a6, #ffd700);
-  -webkit-background-clip: text;
-  color: transparent;
-  text-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
-  margin-top: 10px;
-  margin-bottom: 10px;
-">
-  🎄 С Рождеством! 🐴✨
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imidg1825/imidg1825/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%93%D0%BE%D0%B4.gif"
-       alt="Новогодняя ёлка"
-       width="260"
-       style="border-radius: 50%; overflow: hidden; border: 4px solid #ffd700; box-shadow: 0 0 25px rgba(255,215,0,0.8);" />
-</p>
 
 <p align="center">
   <img src="new_banner.png" alt="Ivan Maznitsyn — Junior QA Engineer (Python & Automation)" />
