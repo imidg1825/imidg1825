@@ -211,6 +211,9 @@
 ---
 
 ## 🐳 Docker 
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
 
 🧩 Создание и запуск контейнеров  
 📦 Работа с образами (`build`, `run`, `pull`, `tag`)  
@@ -222,7 +225,7 @@
 🪄 Оптимизация образов (кэш, слои, размер)
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2496ED&width=230&lines=Docker+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=2496ED&width=420&lines=Docker+for+Test+Automation;Containerized+Test+Environment;CI+Ready+Infrastructure" />
 </p>
 
 ---
