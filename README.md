@@ -137,7 +137,7 @@
 - 📝 Оформление README и документации проекта
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2F80ED&width=260&lines=Git+%2F+GitHub+Practitioner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2F80ED&width=480&lines=Version+Control+Workflow;Feature+Branch+Strategy;Pull+Requests+%26+Code+Review;CI+with+GitHub+Actions;Clean+Commit+History" />
 </p>
 
 ---
