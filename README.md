@@ -56,6 +56,12 @@
   Стек: Python, Pytest, Playwright, Requests, Allure, Git.  
   https://github.com/imidg1825/kinopoisk-ui-api-autotests
 
+- 🔹 **KP Production Smoke Tests**  
+  Реализован набор UI и API smoke-автотестов для проверки стабильности прод-среды после доработок фронтенда и бэкенда.  
+  Тесты используются командой для быстрой валидации основных сценариев.  
+  Стек: Python, Pytest, Playwright, Requests, Allure, Git.  
+  https://github.com/imidg1825/kp-production-tests
+
 - 🔹 **AQA SauceDemo (Playwright + pytest + Allure)**  
   https://github.com/imidg1825/aqa-saucedemo-login
 
