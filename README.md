@@ -235,6 +235,26 @@
 
 ---
 
+## 🐧 Linux / Ubuntu
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-Ubuntu_Essentials-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
+</p>
+
+- 🖥 Работа в Linux-среде (Ubuntu)
+- ⚙ Настройка виртуального окружения (venv)
+- 🖲 Работа через CLI (bash)
+- 📦 Установка и управление зависимостями (apt, pip)
+- 🚀 Запуск автотестов в Linux-среде
+- 🔐 Работа с переменными окружения и правами доступа
+- 🐳 Интеграция с Docker
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=E95420&width=420&lines=Linux+Environment;Ubuntu+CLI+Workflow;Automation+in+Linux;Docker+Integration" />
+</p>
+
+---
+
 ## 🗄 SQL
 
 <p align="left">
