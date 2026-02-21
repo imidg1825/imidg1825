@@ -273,6 +273,25 @@
 
 ---
 
+### 🧹 Code Quality
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linting-flake8-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Style-PEP8-informational?style=for-the-badge" />
+</p>
+
+- Настройка и конфигурация flake8
+- Работа с конфигурационными файлами (.flake8 / pyproject.toml)
+- Исключение служебных директорий (venv, cache, reports)
+- Подготовка проекта к интеграции с pre-commit
+- Интеграция линтера в CI
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=F7931A&width=420&lines=Code+Quality+Mindset;Linting+%7C+PEP8+%7C+Clean+Code" />
+</p>
+
+---
+
 ## 🔗 Postman API Collections
 
 ### 🎬 **Kinopoisk API Tests (Smoke + Negative)**  
