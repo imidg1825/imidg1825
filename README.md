@@ -167,6 +167,25 @@
 
 ---
 
+## 🎭 Playwright
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-Modern_UI_Automation-2EAD33?logo=playwright&logoColor=white&style=for-the-badge" />
+</p>
+
+- ⚡ UI-автотесты на Python
+- 🧩 Архитектура Page Object Model
+- 🧪 Интеграция с Pytest
+- ⏳ Ожидания и стабильные локаторы
+- 📸 Скриншоты, логирование, Allure-репорты
+- 🌍 Кроссбраузерное тестирование (Chromium, Firefox, WebKit)
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=2EAD33&width=420&lines=Playwright+E2E+Automation;UI+Testing+with+Python;Stable+and+Modern+Framework" />
+</p>
+
+---
+
 ## 🐳 Docker 
 
 🧩 Создание и запуск контейнеров  
