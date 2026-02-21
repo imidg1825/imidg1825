@@ -118,6 +118,9 @@
 ---
 
  ## 🔧 Git / GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-Version_Control_&_CI-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
 
 - 🌿 Работа с ветками (feature / main)
 - 🔀 Pull Requests и code review
@@ -135,6 +138,9 @@
 ---
 
  ## 🧪 Pytest
+<p align="left">
+  <img src="https://img.shields.io/badge/Pytest-Test_Framework-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" />
+</p>
 
 - 🧩 Использование фикстур
 - 🔁 Параметризация тестов
@@ -145,7 +151,7 @@
 - ⚙️ Работа с конфигурацией (pytest.ini)
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FF2D55&width=210&lines=PyTest+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=0A9EDC&width=420&lines=Pytest+Automation+Framework;Fixtures+and+Parametrization;CLI+and+Allure+Integration" />
 </p>
 
 ---
