@@ -186,6 +186,24 @@
 
 ---
 
+## 📊 Allure Report
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Allure-Test_Reporting-9B59B6?logo=allure&logoColor=white&style=for-the-badge" />
+</p>
+
+- 📈 Генерация HTML-отчетов
+- 🧩 Интеграция с Pytest
+- 📸 Прикрепление скриншотов
+- 🏷 Маркировка тестов (severity, feature, story)
+- 📊 Анализ падений и трендов
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=9B59B6&width=420&lines=Allure+Test+Reporting;Visual+and+Structured+Reports;Test+Analytics+and+Insights" />
+</p>
+
+---
+
 ## 🐳 Docker 
 
 🧩 Создание и запуск контейнеров  
