@@ -100,7 +100,12 @@
 - Генерация и анализ отчётов Allure
 - Поддержка и развитие тестового фреймворка
 
+---
+
  ## 🧠 Python
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Automation_Development-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+</p>
 
 - 🧪 Разработка автотестов на Python
 - 🔗 Работа с REST API (requests)
@@ -112,7 +117,7 @@
 - 🧠 Разрабатываю небольшие утилиты и практические мини-проекты на Python
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=F7931A&width=250&lines=Python+Beginner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=3776AB&width=420&lines=Python+for+Test+Automation;API+and+UI+Testing;Automation+Framework+Development" />
 </p>
 
 ---
