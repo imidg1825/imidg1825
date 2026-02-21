@@ -219,23 +219,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2496ED&width=230&lines=Docker+Learner" />
 </p>
 
-🔧 **Git / GitHub**
-- Работа с ветками (branching)
-- Слияние, конфликт-мерджи, разрешение конфликтов
-- GitGraph для визуализации истории
-- Откат изменений (restore, reset, revert)
-- Pull Requests и работа с репозиториями
-- Оформление README, бейджи, кликабельные ссылки
+---
 
-🧪 **PyTest**
-- Написание тестов на Python
-- Структура тестового проекта
+## 🗄 SQL
 
-### 🗄 SQL
-- SELECT / WHERE  
-- JOIN  
-- GROUP BY  
-- Базовый анализ данных
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Data_Validation_&_Analysis-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+</p>
+
+- 🔎 SELECT, WHERE, JOIN
+- 📊 GROUP BY, агрегатные функции (COUNT, SUM)
+- 🧩 Проверка корректности данных в БД
+- 🐞 Анализ данных при тестировании API
+- ⚙️ Использование SQL для проверки бизнес-логики
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=6C63FF&width=420&lines=SQL+for+QA+Validation;Data+Verification+and+Analysis;Database+Testing" />
+</p>
 
 ---
 
