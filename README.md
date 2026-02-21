@@ -51,6 +51,11 @@
 - **Docker** (базово), Git/GitHub, VS Code
 
 ### 📌 Проекты
+- 🔹 **Kinopoisk UI & API Autotests — Diploma Project**  
+  Разработан полноценный фреймворк автоматизированного тестирования веб-приложения (UI + API) с архитектурным разделением слоёв, использованием Page Object Model, фикстур и параметризации, а также генерацией отчётов Allure.  
+  Стек: Python, Pytest, Playwright, Requests, Allure, Git.  
+  https://github.com/imidg1825/kinopoisk-ui-api-autotests
+
 - 🔹 **AQA SauceDemo (Playwright + pytest + Allure)**  
   https://github.com/imidg1825/aqa-saucedemo-login
 
