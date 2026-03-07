@@ -44,11 +44,12 @@
 **Делаю:** UI-автотесты и API-тесты, оформляю отчёты и веду проекты на GitHub.
 
 ✅ Стек:
-- **Python**, **pytest**
+- **Python (pytest)**
 - **Playwright** (UI автотесты)
-- **requests** (API)
+- **requests** (API тестирование)
+- **FastAPI**, **Swagger / OpenAPI**
 - **Allure Report** (отчёты)
-- **Docker** (базово), Git/GitHub, VS Code
+- **Docker**, Git/GitHub, VS Code
 
 ### 📌 Проекты
 - 🔹 **Kinopoisk UI & API Autotests — Diploma Project**  
