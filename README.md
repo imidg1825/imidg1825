@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="new_banner.png" alt="Ivan Maznitsyn — Junior QA Engineer (Python & Automation)" />
+  <img src="banner.png" alt="Ivan Maznitsyn — Junior QA Engineer (Python & Automation)" />
 </p>
 
 
