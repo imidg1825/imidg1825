@@ -62,6 +62,13 @@
   изменение рыночных ставок и влияние решений на распределение капитала.
   👉 https://github.com/imidg1825/multiagent-credit-economy-LLM
 
+- 🔥 **AI Auction Assistant**
+  AI-ассистент для аукционной платформы.  
+  Сервис анализирует изображение товара, определяет предмет, предлагает ориентировочную цену и генерирует описание объявления.  
+  Реализован backend API на FastAPI, подключены Ollama + LLaVA для анализа изображений, DeepSeek для генерации текста, а также парсер рыночных цен.  
+  Стек: Python, FastAPI, Ollama, LLaVA, DeepSeek, BeautifulSoup, Requests, Uvicorn.  
+  https://github.com/imidg1825/AI-auction-assistant
+
 - 🔹 **KP Production Smoke Tests**  
   Реализован набор UI и API smoke-автотестов для проверки стабильности прод-среды после доработок фронтенда и бэкенда.  
   Тесты используются командой для быстрой валидации основных сценариев.  
