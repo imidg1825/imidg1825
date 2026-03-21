@@ -52,6 +52,25 @@
 - **Docker**, Git/GitHub, VS Code
 
 ### 📌 Проекты
+
+- 🔥 **AI Concierge (AI генерация объявлений с анализом рынка)**
+AI-сервис, который по текстовому описанию товара:
+- извлекает характеристики
+- ищет цены в интернете
+- анализирует рынок
+- предлагает оптимальную цену
+- генерирует готовое объявление
+Реализован как API-сервис с использованием LLM.
+Стек:
+Python, FastAPI, OpenRouter (LLM), Requests, Pydantic, Uvicorn
+Фичи:
+- анализ текста товара
+- сбор и агрегация цен
+- расчет min / median / recommended price
+- генерация объявления
+- Swagger API
+
+👉 https://github.com/imidg1825/ai-concierge
 - 🔹 **Kinopoisk UI & API Autotests — Diploma Project**  
   Разработан полноценный фреймворк автоматизированного тестирования веб-приложения (UI + API) с архитектурным разделением слоёв, использованием Page Object Model, фикстур и параметризации, а также генерацией отчётов Allure.  
   Стек: Python, Pytest, Playwright, Requests, Allure, Git.  
