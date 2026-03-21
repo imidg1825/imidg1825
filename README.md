@@ -27,7 +27,6 @@
   <b>DevOps:</b> Docker · Linux/WSL ·
   <b>Инструменты:</b> Git · GitHub · VS Code
 </p>
-
 <p align="center">
   <b>Test Management & Docs:</b> Jira · TestIT · BUN · Yonote · Markdown · README
 </p>
