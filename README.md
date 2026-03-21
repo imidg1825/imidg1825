@@ -22,7 +22,7 @@
   <b>Языки:</b> Python ·
   <b>Backend / API:</b> FastAPI · Requests · Pydantic · Uvicorn ·
   <b>Тестирование:</b> Pytest · Selenium · Postman · API ·
-  <b>AI:</b> OpenRouter · LLM · Prompt Engineering ·
+  <b>AI:</b> OpenRouter · LLM ·
   <b>Парсинг:</b> BeautifulSoup ·
   <b>DevOps:</b> Docker · Linux/WSL ·
   <b>Инструменты:</b> Git · GitHub · VS Code
