@@ -73,7 +73,6 @@
   - расчет min / median / recommended price
   - генерация объявления через LLM
   - Swagger API
-
   👉 https://github.com/imidg1825/ai-concierge
 
 - 🔹 **Kinopoisk UI & API Autotests — Diploma Project**  
