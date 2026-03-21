@@ -19,16 +19,16 @@
 <h3 align="center">🧰 Мой стек</h3>
 
 <p align="center">
-  <b>Языки:</b> Python ·
-  <b>Backend / API:</b> FastAPI · Requests · Pydantic · Uvicorn ·
-  <b>Тестирование:</b> Pytest · Selenium · Postman · API ·
-  <b>AI:</b> OpenRouter · LLM ·
-  <b>Парсинг:</b> BeautifulSoup ·
-  <b>DevOps:</b> Docker · Linux/WSL ·
-  <b>Инструменты:</b> Git · GitHub · VS Code
+<b>Языки:</b> Python ·
+<b>Backend / API:</b> FastAPI · Requests · Pydantic · Uvicorn ·
+<b>Тестирование:</b> Pytest · Playwright · Selenium · Postman · API ·
+<b>AI:</b> OpenRouter · LLM · Prompt Engineering ·
+<b>Парсинг:</b> BeautifulSoup ·
+<b>DevOps:</b> Docker · Linux/WSL ·
+<b>Инструменты:</b> Git · GitHub · VS Code
 </p>
 <p align="center">
-  <b>Test Management & Docs:</b> Jira · TestIT · BUN · Yonote · Markdown · README
+  <b>Test Management & Docs:</b> Jira · TestIT · Allure · BUN · Yonote · Markdown · README
 </p>
 <p align="center">
   <a href="#ai-mentor" style="text-decoration:none;">
