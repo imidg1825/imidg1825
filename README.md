@@ -90,7 +90,7 @@
   - Swagger API
   👉 https://github.com/imidg1825/ai-concierge
 
-- 🔹 **Kinopoisk UI & API Autotests — Diploma Project**  
+- 🔹 **Kinopoisk UI & API Autotests — Project**  
   Разработан полноценный фреймворк автоматизированного тестирования веб-приложения (UI + API) с архитектурным разделением слоёв, использованием Page Object Model, фикстур и параметризации, а также генерацией отчётов Allure.  
   Стек: Python, Pytest, Playwright, Requests, Allure, Git.  
   https://github.com/imidg1825/kinopoisk-ui-api-autotests
