@@ -55,7 +55,7 @@
 
 ### 📌 Проекты
 
-- 🚀 API Autotests — Registration (Main Project)  
+- 🚀 **API Autotests — Registration (Main Project)**  
 Автоматизированное тестирование API регистрации пользователей.
 
 Проект демонстрирует:
