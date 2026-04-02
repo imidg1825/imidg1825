@@ -55,6 +55,32 @@
 
 ### 📌 Проекты
 
+- 🚀 API Autotests — Registration (Main Project)  
+Автоматизированное тестирование API регистрации пользователей.
+
+Проект демонстрирует:
+- построение автотестов API с нуля
+- покрытие позитивных, негативных и граничных сценариев
+- проверку контрактов API (статусы, структура ошибок, валидация)
+
+Стек:
+Python, Pytest, Requests, Allure, Docker, GitHub Actions
+
+Ключевые фичи:
+- 78 автотестов (positive / negative / edge cases)
+- Allure отчеты (шаги, вложения, bug-ссылки)
+- CI pipeline (автозапуск тестов)
+- публикация Allure отчета через GitHub Pages
+- Docker-запуск тестов
+
+👉 Репозиторий:  
+https://github.com/imidg1825/auction-api-test-suite
+
+👉 📊 Allure отчет:  
+https://imidg1825.github.io/auction-api-test-suite/
+
+[![Open Allure Report](https://img.shields.io/badge/📊_Open_Allure_Report-brightgreen?style=for-the-badge)](https://imidg1825.github.io/auction-api-test-suite/)
+
 - 🔥 **AI Concierge — генерация объявлений с анализом рынка (LLM + API)**
   MVP-сервис, который автоматизирует создание объявлений о продаже товара.
 
