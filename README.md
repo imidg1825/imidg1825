@@ -55,8 +55,8 @@
 
 ### 📌 Проекты
 
-- 🚀 **API Autotests — Registration (Main Project)**  
-Автотесты API регистрации пользователей.
+- 🚀 **API Autotests — Registration (Main Project)  
+Автотесты API регистрации пользователей**
 
 Стек: Python, Pytest, Requests, Allure, Docker, GitHub Actions
 
