@@ -56,28 +56,15 @@
 ### 📌 Проекты
 
 - 🚀 **API Autotests — Registration (Main Project)**  
-Автоматизированное тестирование API регистрации пользователей.
+Автотесты API регистрации пользователей.
 
-Проект демонстрирует:
-- построение автотестов API с нуля
-- покрытие позитивных, негативных и граничных сценариев
-- проверку контрактов API (статусы, структура ошибок, валидация)
+Стек: Python, Pytest, Requests, Allure, Docker, GitHub Actions
 
-Стек:
-Python, Pytest, Requests, Allure, Docker, GitHub Actions
+✔ 78 тестов (positive / negative / edge)  
+✔ Проверка контрактов API (валидация, ошибки, статусы)  
+✔ CI + Allure отчеты + GitHub Pages  
 
-Ключевые фичи:
-- 78 автотестов (positive / negative / edge cases)
-- Allure отчеты (шаги, вложения, bug-ссылки)
-- CI pipeline (автозапуск тестов)
-- публикация Allure отчета через GitHub Pages
-- Docker-запуск тестов
-
-👉 Репозиторий:  
-https://github.com/imidg1825/auction-api-test-suite
-
-👉 📊 Allure отчет:  
-https://imidg1825.github.io/auction-api-test-suite/
+👉 https://github.com/imidg1825/auction-api-test-suite  
 
 [![Open Allure Report](https://img.shields.io/badge/📊_Open_Allure_Report-brightgreen?style=for-the-badge)](https://imidg1825.github.io/auction-api-test-suite/)
 
