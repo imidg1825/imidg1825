@@ -144,7 +144,7 @@
 - Анализ и декомпозиция требований
 - Поддержка тестовой документации
   
- ## 🚀 QA Automation
+ ### 🚀 QA Automation
 
 - Разработка UI-автотестов (Playwright + Pytest)
 - Реализация Page Object Model (POM)
