@@ -55,6 +55,23 @@
 
 ### 📌 Проекты
 
+- 🚀 **UI Automation Framework — Auction Platform**
+
+<p>
+  <a href="https://imidg1825.github.io/auction-frontend-ui-autotests/">
+    <img src="https://img.shields.io/badge/UI%20TEST%20REPORT-LIVE-00E676?style=for-the-badge&logo=allure&logoColor=white" />
+  </a>
+  <a href="https://github.com/imidg1825/auction-frontend-ui-autotests">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-24292F?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+UI automation framework для тестирования фронтенда:
+
+- 100+ UI тестов (Playwright + pytest)  
+- OTP авторизация через email (IMAP)  
+- Allure отчёты + CI/CD + GitHub Pages  
+
 - 🚀 **API Autotests — Registration (Main Project)**  
 Автотесты API регистрации пользователей  
 
