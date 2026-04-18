@@ -56,6 +56,7 @@
 ### 📌 Проекты
 
 - 🚀 **UI Automation Framework — Auction Platform**
+
 UI automation framework для тестирования фронтенда:
 
 - 100+ UI тестов (Playwright + pytest)  
