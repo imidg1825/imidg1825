@@ -59,7 +59,7 @@
 
 UI automation framework для тестирования фронтенда:
 
-- 100+ UI тестов (Playwright + pytest)  
+- 118 UI тестов (Playwright + pytest)  
 - OTP авторизация через email (IMAP)  
 - Allure отчёты + CI/CD + GitHub Pages  
 
