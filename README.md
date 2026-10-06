@@ -1,514 +1,238 @@
+<p align="center">
+  <img src="./Баннер%20Гитхаб.png" alt="Ivan Maznitsyn — QA Engineer · Full-Stack Developer" width="100%" />
+</p>
+
+<h1 align="center">Ivan Maznitsyn</h1>
+<h3 align="center">QA Engineer · Full-Stack Developer · AI-Assisted Engineering</h3>
 
 <p align="center">
-  <img src="banner.png" alt="Ivan Maznitsyn — Junior QA Engineer (Python & Automation)" />
+  <strong><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E53935&center=true&vCenter=true&width=760&lines=QA+Engineering+%E2%86%92+Test+Automation;Full-Stack+Development+%E2%86%92+System+Integration;AI-Assisted+Engineering+%E2%86%92+AI+Agents;Control+Systems+%E2%86%92+ArduPilot" alt="Engineering focus" />
+</p></strong>
 </p>
-
-
----
-
-
-<h1 align="center">💻 Ivan Maznitsyn</h1>
-<h3 align="center" style="color:#ff3333;">QA Engineer (Manual → Automation) & Python Beginner Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-ff3333?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=ff3333" />
-  <img src="https://img.shields.io/badge/Git-ff3333?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff3333" />
-  <img src="https://img.shields.io/badge/SQL-ff3333?style=for-the-badge&logo=postgresql&logoColor=white" />
-<h3 align="center">🧰 Мой стек</h3>
+  <img src="https://img.shields.io/badge/Python-Engineering-informational?logo=python" />
+  <img src="https://img.shields.io/badge/TypeScript-Development-informational?logo=typescript" />
+  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-Full--Stack-informational?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Playwright%20%2F%20Pytest-QA-informational?logo=playwright" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20Supabase-Data-informational?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Linux%20%2F%20Docker-Infrastructure-informational?logo=linux" />
+</p>
 
 <p align="center">
-<b>Языки:</b> Python ·
-<b>Backend / API:</b> FastAPI · Requests · Pydantic · Uvicorn ·
-<b>Тестирование:</b> Pytest · Playwright · Selenium · Postman · API ·
-<b>AI:</b> OpenRouter · LLM · Prompt Engineering ·
-<b>Парсинг:</b> BeautifulSoup ·
-<b>DevOps:</b> Docker · Linux/WSL ·
-<b>Инструменты:</b> Git · GitHub · VS Code
-</p>
-<p align="center">
-  <b>Test Management & Docs:</b> Jira · TestIT · Allure · BUN · Yonote · Markdown · README
-</p>
-<p align="center">
-  <a href="#ai-mentor" style="text-decoration:none;">
-    🤖 <b>Создал собственного AI-наставника для обучения Python и QA</b> ↓
-  </a>
+  <img src="./engineering-console.png" alt="Ivan Maznitsyn — Engineering Console" width="100%" />
 </p>
 
-## 🧑‍💻 Обо мне
+## 👨‍💻 About Me
 
-Я — Иван Мазницын, Python & QA Automation инженер.
-Люблю порядок в коде, красивый интерфейс и автоматизацию всего, что можно автоматизировать.
-📌 Занимаюсь:
-### 🧪 Automation QA (Python)
+Я **QA Engineer и Full-Stack Developer** с практическим опытом тестирования, автоматизации, веб-разработки, системной интеграции и AI-assisted development.
 
-**Делаю:** UI-автотесты и API-тесты, оформляю отчёты и веду проекты на GitHub.
+Начал с ручного тестирования и постепенно расширил инженерный стек до автоматизации, frontend/backend-разработки, баз данных, API, интеграций и AI-инструментов. Работал с реальными и MVP-продуктами в digital health, бизнес-автоматизации, AI-ассистентах, Telegram-ботах, QA automation и серверной инфраструктуре.
 
-✅ Стек:
-- **Python (pytest)**
-- **Playwright** (UI автотесты)
-- **requests** (API тестирование)
-- **FastAPI**, **Swagger / OpenAPI**
-- **Allure Report** (отчёты)
-- **Docker**, Git/GitHub, VS Code
+QA остаётся фундаментом моей разработки: я не только реализую функциональность, но и проверяю пользовательские сценарии, API, интеграции, потоки данных и поведение системы.
 
-### 📌 Проекты
-
-- 🚀 **UI Automation Framework — Auction Platform**
-
-UI automation framework для тестирования фронтенда:
-
-- 118 UI тестов (Playwright + pytest)  
-- OTP авторизация через email (IMAP)  
-- Allure отчёты + CI/CD + GitHub Pages  
-
-🔗 https://github.com/imidg1825/auction-frontend-ui-autotests
-
-[![Open Allure Report](https://img.shields.io/badge/📊%20Open%20Allure%20Report-brightgreen?style=for-the-badge)](https://imidg1825.github.io/auction-frontend-ui-autotests/)
-[![Run UI Tests](https://img.shields.io/badge/▶%20Run%20UI%20Tests-blue?style=for-the-badge)](https://github.com/imidg1825/auction-frontend-ui-autotests/actions/workflows/tests.yml)
-
-- 🚀 **API Autotests — Registration (Main Project)**  
-Автотесты API регистрации пользователей  
-
-Стек: Python, Pytest, Requests, Allure, Docker, GitHub Actions  
-
-✔ 78 тестов (positive / negative / edge)  
-✔ Проверка контрактов API (валидация, ошибки, статусы)  
-✔ CI + Allure отчёты + GitHub Pages  
-
-🔗 https://github.com/imidg1825/auction-api-test-suite  
-
-[![Open Allure Report](https://img.shields.io/badge/📊_Open_Allure_Report-brightgreen?style=for-the-badge)](https://imidg1825.github.io/auction-api-test-suite/)
-[![Run Tests](https://img.shields.io/badge/▶_Run_Tests-blue?style=for-the-badge)](https://github.com/imidg1825/auction-api-test-suite/actions/workflows/tests.yml)
-
-📦 Проект доступен по ссылке выше.  
-
-📊 Отчёт — кнопка **Open Allure Report** (открывается сразу в браузере)  
-▶ Запуск тестов — **Run Tests → Run workflow** (ручной прогон через GitHub Actions)  
-
-- 🔥 **AI Concierge — генерация объявлений с анализом рынка (LLM + API)**
-
-  MVP-сервис, который автоматизирует создание объявлений о продаже товара.
-
-  Пользователь вводит описание товара → сервис:
-  - извлекает характеристики
-  - ищет цены в интернете
-  - анализирует рынок
-  - рассчитывает оптимальную цену
-  - генерирует готовое объявление
-
-  Реализован как backend API с использованием LLM.
-
-  Стек: Python, FastAPI, OpenRouter (LLM), Requests, Pydantic, Uvicorn
-
-  Ключевые фичи:
-  - парсинг и анализ текста товара
-  - агрегация цен из разных источников
-  - расчет min / median / recommended price
-  - генерация объявления через LLM
-  - Swagger API
-  👉 https://github.com/imidg1825/ai-concierge
-
-- 🔹 **Kinopoisk UI & API Autotests — Project**  
-  Разработан полноценный фреймворк автоматизированного тестирования веб-приложения (UI + API) с архитектурным разделением слоёв, использованием Page Object Model, фикстур и параметризации, а также генерацией отчётов Allure.  
-  Стек: Python, Pytest, Playwright, Requests, Allure, Git.  
-  https://github.com/imidg1825/kinopoisk-ui-api-autotests
-
-- 🔥 **Multi-Agent Credit Economy (LLM Simulation)**  
-  Агентная модель экономики с использованием LLM вместо фиксированной логики.
-   Модель демонстрирует emergent behavior агентов,
-  изменение рыночных ставок и влияние решений на распределение капитала.
-  👉 https://github.com/imidg1825/multiagent-credit-economy-LLM
-
-- 🔥 **AI Auction Assistant**
-  AI-ассистент для аукционной платформы.  
-  Сервис анализирует изображение товара, определяет предмет, предлагает ориентировочную цену и генерирует описание объявления.  
-  Реализован backend API на FastAPI, подключены Ollama + LLaVA для анализа изображений, DeepSeek для генерации текста, а также парсер рыночных цен.  
-  Стек: Python, FastAPI, Ollama, LLaVA, DeepSeek, BeautifulSoup, Requests, Uvicorn.  
-  https://github.com/imidg1825/AI-auction-assistant
-
-- 🔹 **KP Production Smoke Tests**  
-  Реализован набор UI и API smoke-автотестов для проверки стабильности прод-среды после доработок фронтенда и бэкенда.  
-  Тесты используются командой для быстрой валидации основных сценариев.  
-  Стек: Python, Pytest, Playwright, Requests, Allure, Git.  
-  https://github.com/imidg1825/kp-production-tests
-
-- 🔹 **AQA SauceDemo (Playwright + pytest + Allure)**  
-  https://github.com/imidg1825/aqa-saucedemo-login
-
-- 🔹 **API testing (requests)**  
-  https://github.com/imidg1825/python_lesson1/tree/main/08_lesson
-### 💼 Опыт
-
-**QA Intern / QA Engineer — Акатосфера (отдел качества)**
-
-• Тестирование web-аукционов (manual + automation)  
-• Нашёл и оформил **70+ багов** в системе отслеживания ошибок  
-• Проверка пользовательских сценариев и логики работы платформы  
-• Участие в тестировании пилотного продукта и решения на базе нейросети  
-• Разработка Python-парсера для сбора цен с аукциона «Мешок»  
-• Работа с API и Swagger / OpenAPI документацией, сгенерированной FastAPI  
-• Подготовка тестовой документации
-## 🛠 Мои навыки
-
- ### 🔧 QA Manual
-
-- Тест-дизайн (чек-листы, тест-кейсы)
-- Функциональное, регрессионное и smoke-тестирование
-- Исследовательское (exploratory) тестирование
-- Интеграционное и приёмочное тестирование
-- Кроссбраузерное тестирование
-- API-тестирование (Postman)
-- Полный цикл работы с дефектами: выявление, оформление, приоритизация и сопровождение до закрытия (Jira, OpenProject и др.)
-- Анализ и декомпозиция требований
-- Поддержка тестовой документации
-  
- ### 🚀 QA Automation
-
-- Разработка UI-автотестов (Playwright + Pytest)
-- Реализация Page Object Model (POM)
-- Разработка API-автотестов (Python, requests, pytest)
-- Проверка REST API (статусы, структура JSON, валидация данных)
-- Параметризация тестов
-- Использование фикстур pytest
-- Маркировка и группировка тестов
-- Запуск тестов через CLI
-- Генерация и анализ отчётов Allure
-- Поддержка и развитие тестового фреймворка
-- Проектирование архитектуры симуляционных моделей (LLM-based agents)
-- Логирование метрик и анализ поведения системы (CSV, pandas)
-- Визуализация данных и исследование динамики системы
-- Тестирование LLM-систем и AI-агентов
-- Анализ поведения моделей и логирование метрик
-
-  ### 🤖 AI / LLM Testing
-
-- Тестирование LLM-систем и AI-агентов
-- Анализ поведения моделей и логирование метрик
-- Исследование генеративных ответов моделей
----
-
- ## 🧠 Python
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Automation_Development-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-</p>
-
-- 🧪 Разработка автотестов на Python
-- 🔗 Работа с REST API (requests)
-- 📦 Обработка и валидация JSON-ответов
-- 🧩 Использование pytest (фикстуры, параметризация, маркеры)
-- 🗂 Организация структуры тестового проекта
-- ▶️ Запуск тестов через CLI
-- ⚙️ Работа с конфигурациями и переменными окружения
-- 🧠 Разрабатываю небольшие утилиты и практические мини-проекты на Python
-- 📊 Работа с pandas (анализ данных)
-- 📈 Визуализация данных (matplotlib)
-- 🗂 CSV-логирование и обработка метрик
-- 🧠 Проектирование логики симуляций моделей
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=3776AB&width=420&lines=Python+for+Test+Automation;API+and+UI+Testing;Automation+Framework+Development" />
-</p>
+> **Я не сменил тестирование на разработку — я перенёс инженерный QA-подход в разработку.**
 
 ---
 
- ## 🔧 Git / GitHub
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-Version_Control_&_CI-181717?logo=github&logoColor=white&style=for-the-badge" />
-</p>
+## 🚀 Featured Work
 
-- 🌿 Работа с ветками (feature / main)
-- 🔀 Pull Requests и code review
-- ⚔️ Разрешение merge-конфликтов
-- 🕓 Управление историей (restore, reset, revert)
-- 📊 Анализ истории коммитов (Git Graph)
-- 🔄 Настройка CI (GitHub Actions)
-- 📁 Настройка .gitignore
-- 📝 Оформление README и документации проекта
+### 🏥 Vita / iHealth — Digital Healthcare Ecosystem
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=2F80ED&width=480&lines=Version+Control+Workflow;Feature+Branch+Strategy;Pull+Requests+%26+Code+Review;CI+with+GitHub+Actions;Clean+Commit+History" />
-</p>
+**Full-Stack Development · QA Engineering · System Integration · AI-Assisted Development**
 
----
+Разработка и развитие интегрированной медицинской экосистемы, объединяющей пациентское приложение, кабинет врача и общий клинический контур.
 
- ## 🧪 Pytest
-<p align="left">
-  <img src="https://img.shields.io/badge/Pytest-Test_Framework-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" />
-</p>
+Полностью разработал **Vita Patient App** и его data/backend layer на базе **Supabase / PostgreSQL**. Развиваю общую инфраструктуру Supabase: структуру данных, SQL-миграции и резервное копирование.
 
-- 🧩 Использование фикстур
-- 🔁 Параметризация тестов
-- 🏷 Маркировка и группировка тестов
-- 🗂 Организация структуры тестового проекта
-- ▶️ CLI-запуск тестов
-- 📊 Интеграция с Allure
-- ⚙️ Работа с конфигурацией (pytest.ini)
+Спроектировал и реализовал интеграцию **Vita Patient App ↔ Clinician App** через общую Supabase, интеграционные контракты и единые клинические данные. В разработке Clinician App выполнял координирующую роль: определял требования общей системы, контролировал совместимость с Vita и интеграционными контрактами, участвовал в проверке и корректировке реализации.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=0A9EDC&width=420&lines=Pytest+Automation+Framework;Fixtures+and+Parametrization;CLI+and+Allure+Integration" />
-</p>
+Экосистема включает AI Chat для вопросов пациента нейросети о своём состоянии, а также сквозные сценарии «пациент — врач»: чат, вложения, appointments, diagnoses, prescriptions, versioning clinical changes, patient acknowledgements, medication adherence, Health History, Medical Documents, Doctor Report, notifications, Devices & Sensors и SOS.
 
----
+**Stack:** `React` · `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `SQL` · `API` · `GitLab`
 
-## 🕷️ Selenium WebDriver
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-Beginner-green?logo=selenium&logoColor=white" />
-</p>
+**Status:** `Demo MVP approved → First Release`
 
-- 🌐 Установка Selenium WebDriver  
-- 🧭 Навигация по страницам  
-- 🔍 Поиск элементов (`find_element`)  
-- 🎯 Действия: `click`, `send_keys`, `get`  
-- 🧪 Первый UI-тест (Google search test)
+**[🏥 Vita / iHealth — Case Study & Architecture](./case-studies/vita-ihealth.md)**
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00B894&width=270&lines=Selenium+UI+Automation" />
-</p>
+> Корпоративный исходный код не публикуется. В портфолио проект представлен как case study без раскрытия закрытого кода и данных.
 
----
+### ✈️ ArduPilot / Control Systems — In Progress
 
-## 🎭 Playwright
+**Control Systems · Software Engineering · Testing & Diagnostics**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Playwright-Modern_UI_Automation-2EAD33?logo=playwright&logoColor=white&style=for-the-badge" />
-</p>
+Текущее практическое направление работы с управляющими системами БПЛА и ArduPilot: архитектура системы управления, GPS/IMU/barometer, EKF, PID и интерфейсы передачи данных.
 
-- ⚡ UI-автотесты на Python
-- 🧩 Архитектура Page Object Model
-- 🧪 Интеграция с Pytest
-- ⏳ Ожидания и стабильные локаторы
-- 📸 Скриншоты, логирование, Allure-репорты
-- 🌍 Кроссбраузерное тестирование (Chromium, Firefox, WebKit)
+Практика включает **SITL**, работу с логами, воспроизводимые сценарии, диагностику, Serial / RS-485 / CAN и применение QA-подхода к анализу поведения управляющей системы.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=2EAD33&width=420&lines=Playwright+E2E+Automation;UI+Testing+with+Python;Stable+and+Modern+Framework" />
-</p>
+**Areas:** `ArduPilot` · `SITL` · `Linux / Ubuntu` · `GPS` · `IMU` · `EKF` · `PID` · `Serial` · `RS-485` · `CAN`
 
----
+**Status:** `Active Project · In Progress`
 
-## 📊 Allure Report
+### 🧪 Akatosfera — QA Automation & AI-Assisted Product Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Allure-Test_Reporting-9B59B6?logo=allure&logoColor=white&style=for-the-badge" />
-</p>
+**QA Engineering · Test Automation · API · UI/E2E · AI-Assisted Development**
 
-- 📈 Генерация HTML-отчетов
-- 🧩 Интеграция с Pytest
-- 📸 Прикрепление скриншотов
-- 🏷 Маркировка тестов (severity, feature, story)
-- 📊 Анализ падений и трендов
+Практическая работа с аукционной платформой: тестирование реального web-приложения, автоматизация frontend/API-проверок, анализ дефектов и пользовательских сценариев. В рамках ручного QA подготовил **более 150 баг-репортов**, а также большое количество **test cases (тест-кейсов)** и **checklists (чек-листов)** для функциональных и регрессионных проверок.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=9B59B6&width=420&lines=Allure+Test+Reporting;Visual+and+Structured+Reports;Test+Analytics+and+Insights" />
-</p>
+Автоматизированные наборы включают **118 UI-тестов** и отдельный API-набор из **78 тестов сценариев регистрации**.
+
+На отдельном этапе разработал AI-assisted MVP аукционной платформы и представил работающий прототип руководству. Прототип не был принят для дальнейшего развития, но стал практическим опытом полного цикла продуктовой разработки.
+
+**Stack:** `Python` · `Pytest` · `Playwright` · `API` · `Allure` · `CI/CD` · `Git` · `GitHub`
+
+### 🤖 CareerOS — AI Career & Freelance Automation System
+
+**Python · AI Agents · Automation · Telegram · Web · Testing**
+
+Собственная AI-система для автоматизации работы с freelance-проектами: поиск и анализ задач, оценка релевантности, подготовка откликов и сценарии частичной автоматизации подачи заявок.
+
+Архитектура предусматривает историю проектов и решений, защиту от повторов, контроль пользователя и развитие системы на основе реальных результатов. Проект включает Telegram-интерфейс и Web Dashboard.
+
+**Stack:** `Python` · `LLM` · `AI Agents` · `Telegram Bot` · `Web` · `Automation` · `Pytest` · `Git`
+
+**Status:** `Personal Product · AI Automation · Working Prototype`
+
+### 🧠 AI Engineering — LLM, Agents & AI Infrastructure
+
+**LLM · AI Agents · Fine-tuning · Datasets · VPS · AI-Assisted Engineering**
+
+Практическая работа с AI-системами на нескольких уровнях: интеграция LLM в приложения, AI-агенты и серверная инфраструктура.
+
+Работал с подготовкой датасетов и **fine-tuning (дообучением) LLM** для специализированного AI-консьержа, использовал VPS и LM Studio. Разворачивал и настраивал AI-системы, включая OpenClaw и Hermes; развиваю Claw Commander как отдельную среду AI-assisted разработки для создания программ и приложений.
+
+AI используется как инженерный инструмент: постановка задачи → анализ архитектуры → реализация → тестирование → проверка интеграций → контроль качества.
+
+**Areas:** `LLM` · `AI Agents` · `Fine-tuning` · `Datasets` · `LM Studio` · `Python` · `VPS` · `Linux` · `Telegram` · `Git`
+
+### 🦊 CleverFoxBot / «Хорошие Бассейны» — AI Business Automation
+
+**Business Analysis · AI Architecture · Telegram Bot · Applied AI**
+
+Практический кейс проектирования AI-автоматизации для реальной компании в сфере строительства и обслуживания бассейнов.
+
+Провёл анализ бизнес-процессов и подготовил концепцию AI-экосистемы: AI-конструктор предварительной сметы, гео-аудитор участка на основе computer vision и AI-консьерж для последующего обслуживания бассейна.
+
+Разработан работающий прототип **CleverFoxBot** — специализированный Telegram-бот. Для компании также подготовлены аудит, архитектура решений, roadmap и коммерческая презентация.
+
+Прогнозы экономического эффекта в материалах проекта являются оценкой бизнес-кейса, а не заявлением о достигнутом финансовом результате.
 
 ---
 
-## 🐳 Docker 
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-</p>
+## 🧪 QA & Automation
 
-🧩 Создание и запуск контейнеров  
-📦 Работа с образами (`build`, `run`, `pull`, `tag`)  
-🧾 Написание `Dockerfile`  
-🐍 Установка Python-зависимостей внутри контейнера  
-🌐 Работа с сетями и портами  
-💾 Создание томов (`volumes`)  
-🧱 Основы Docker Compose  
-🪄 Оптимизация образов (кэш, слои, размер)
+**Manual Testing → API Testing → Test Automation → Quality-Driven Development**
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=2496ED&width=420&lines=Docker+for+Test+Automation;Containerized+Test+Environment;CI+Ready+Infrastructure" />
-</p>
+QA-подход остаётся частью моей инженерной работы: **test design (тест-дизайн), test cases (тест-кейсы), checklists (чек-листы), bug reports (баг-репорты)**, функциональное и регрессионное тестирование, API, UI/E2E, интеграционные сценарии, базы данных, анализ дефектов и проверка бизнес-логики. Тестовую документацию применял в реальных проектах, включая **Akatosfera** и **Vita / iHealth**.
 
----
+Автоматизацию использую как часть процесса разработки. Новая функциональность сопровождается проверками и релевантными автотестами; в подходящих задачах применяю практики **TDD (Test-Driven Development — разработка через тестирование)**.
 
-## 🐧 Linux / Ubuntu
+AI-assisted код также проходит инженерную валидацию: тесты, type checks, quality checks, пользовательские и интеграционные сценарии.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-Ubuntu_Essentials-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
-</p>
+**Основные направления:** `Manual QA` · `Test Design` · `Test Cases` · `Checklists` · `Bug Reporting` · `Functional Testing` · `Regression Testing` · `API Testing` · `Integration Testing` · `UI / E2E` · `SQL / Database Testing` · `Test Automation` · `CI/CD`
 
-- 🖥 Работа в Linux-среде (Ubuntu)
-- ⚙ Настройка виртуального окружения (venv)
-- 🖲 Работа через CLI (bash)
-- 📦 Установка и управление зависимостями (apt, pip)
-- 🚀 Запуск автотестов в Linux-среде
-- 🔐 Работа с переменными окружения и правами доступа
-- 🐳 Интеграция с Docker
+**Инструменты:** `Python` · `Pytest` · `Playwright` · `Selenium` · **`Postman`** · `Allure` · `Git / GitHub / GitLab` · `Jira / TestIT`
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=E95420&width=420&lines=Linux+Environment;Ubuntu+CLI+Workflow;Automation+in+Linux;Docker+Integration" />
-</p>
+**Postman:** практическая работа с REST API — отправка и проверка запросов, headers / parameters / body, авторизация, анализ response status и response body, работа с API collections (коллекциями) и проверка API-сценариев.
+
+### Selected QA Projects
+
+- **Akatosfera Auction Platform** — более 150 баг-репортов, test cases и checklists + 118 UI-тестов Playwright/pytest + 78 API-тестов сценариев регистрации.
+- **Vita / iHealth** — test cases, checklists, bug reporting, functional, integration, API, E2E и regression testing для связанных сценариев Patient App ↔ Clinician App.
+- **Kinopoisk UI & API Automation** — самостоятельный проект автоматизации UI и API.
+- **Postman API Collections** — практическое API-тестирование и работа с коллекциями запросов в Postman.
+- **SauceDemo / HandmadeMarket** — развитие от базового QA к UI-автоматизации.
 
 ---
 
-## 🗄 SQL
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-Data_Validation_&_Analysis-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-</p>
+**Development:** `Python` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `FastAPI` · `HTML/CSS`
 
-- 🔎 SELECT, WHERE, JOIN
-- 📊 GROUP BY, агрегатные функции (COUNT, SUM)
-- 🧩 Проверка корректности данных в БД
-- 🐞 Анализ данных при тестировании API
-- ⚙️ Использование SQL для проверки бизнес-логики
+**QA & Automation:** `Pytest` · `Playwright` · `Selenium` · `Postman` · `Allure` · `API Testing` · `UI/E2E` · `TDD`
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=6C63FF&width=420&lines=SQL+for+QA+Validation;Data+Verification+and+Analysis;Database+Testing" />
-</p>
+**Backend & Data:** `Supabase` · `PostgreSQL` · `SQL` · `REST API` · `SQL Migrations` · `Data Integration`
 
----
+**AI Engineering:** `LLM` · `AI Agents` · `AI-Assisted Development` · `Datasets` · `Fine-tuning` · `LM Studio` · `Prompt Engineering`
 
-### 🧹 Code Quality
+**Infrastructure:** `Linux / Ubuntu` · `VPS` · `Docker` · `SSH` · `Xray / 3X-UI`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linting-flake8-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code%20Style-PEP8-informational?style=for-the-badge" />
-</p>
+**Engineering Tools:** `Git` · `GitHub` · `GitLab` · `CI/CD` · `Cursor` · `VS Code` · `Jira` · `TestIT`
 
-- Настройка и конфигурация flake8
-- Работа с конфигурационными файлами (.flake8 / pyproject.toml)
-- Исключение служебных директорий (venv, cache, reports)
-- Подготовка проекта к интеграции с pre-commit
-- Интеграция линтера в CI
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=F7931A&width=420&lines=Code+Quality+Mindset;Linting+%7C+PEP8+%7C+Clean+Code" />
-</p>
+**Control Systems — In Progress:** `ArduPilot` · `SITL` · `GPS / IMU` · `EKF` · `PID` · `Serial` · `RS-485` · `CAN` · `Logs & Diagnostics`
 
 ---
 
-## 🔗 Postman API Collections
+## 🎓 Education & Professional Recognition
 
-### 🎬 **Kinopoisk API Tests (Smoke + Negative)**  
-[➡ Открыть коллекцию в Postman](https://docking-module-participant-646848-2572445.postman.co/workspace/%D0%98%D0%B2%D0%B0%D0%BD-%D0%9C%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D1%8B%D0%BD's-Workspace~1ba03d02-e567-45fe-8c1d-85038528be26/collection/47167819-8db6da80-1438-4737-b5cf-9f82e3205902?action=share&creator=47167819&active-environment=47167819-079631b2-60f7-4ece-872a-6cb48afd16f9)
+### Software Testing Engineer / Инженер по тестированию ПО
 
-Коллекция включает:
-- ✔ 3 позитивных теста  
-- ❌ 5 негативных тестов  
-- 🔧 Переменные окружения (`Kinopoisk_ENV`)
----
-## ⚡ Как развернуть окружение за 5 минут
+Профессиональная переподготовка.  
+**Skypro / СКАЕНГ · 2025–2026**
 
-👉 Подробная инструкция по настройке VS Code, WSL и Python  
-📄 [Открыть инструкцию](./setup-environment.md)
+**[📜 Диплом — Инженер по тестированию ПО](./Диплом%20тестер.jpg)**
 
----
+### Additional Certificates / Дополнительные сертификаты
 
-## 📂 Мои учебные проекты
+**[🤖 Автоматизация бизнеса и создание AI-агентов](./Сертификат%20АИ%20агенты.pdf)**
 
-### 📝 **Первая курсовая работа (YoNote)**  
-Первая большая учебная работа по тестированию: чек-листы, тест-кейсы, первый тест-ран и баг-репорты.
+**[✈️ Разработка ПО для контроллеров беспилотных аппаратов](./Сертификат%20БПЛА.png)**
 
-👉 [Открыть первую курсовую в YoNote](https://imidg1825.yonote.ru/share/c512ad97-0148-4e57-8bac-d78dbb622e95)
+### Professional Recommendation — AVB Invest Inc.
+
+Профессиональная рекомендация по результатам работы над Vita/iHealth в ролях **QA Engineer и Full-Stack Developer**, включая разработку, QA, системную интеграцию и AI-assisted development.
+
+**[📄 Recommendation Letter — AVB Invest Inc.](./Ivan_Maznitsyn_Recommendation_FINAL_CORRECTED.pdf)**
 
 ---
 
-### 📝 **Тестовая документация (YoNote, финальная работа)**  
-Финальная работа: чек-листы, тест-кейсы, тест-ран, баг-репорты, итоговый отчёт.
+## 🚀 Career Path
 
-👉 [Открыть финальную работу в YoNote](https://imidg1825.yonote.ru/share/7561216a-d0de-4320-a426-cbaf86edd491)
+**2024 → 2025 · Начало пути в QA**  
+Тест-дизайн, функциональное тестирование, API, SQL, Postman, баг-трекинг и тестовая документация.
 
---- 
+**2025 → 2026 · QA Automation**  
+Python, pytest, Selenium, Playwright, API-автотесты, Allure, Git, Docker и CI/CD.
 
-### 🐞 Баг-репорты  
-- 📌 **[Коллекция багов (Ёжка)](https://imidg1825.yonote.ru/share/7561216a-d0de-4320-a426-cbaf86edd491)**  
+**2026 · Работа с реальными продуктами**  
+Akatosfera: тестирование аукционной платформы, автоматизация UI/API и участие в продуктовой разработке.
 
----
+**2026 · Full-Stack & System Integration**  
+Vita / iHealth: Patient App, Supabase/PostgreSQL, API, SQL migrations, интеграционные контракты и единая медицинская экосистема.
 
-### 🔥 **API-проекты**
+**2026 · AI Engineering**  
+AI-ассистенты и агенты, Telegram-боты, CareerOS, CleverFoxBot, LLM, datasets, fine-tuning, LM Studio и VPS.
 
-- **[Postman Tests Portfolio](https://github.com/imidg1825/postman-tests-portfolio)**  
-  Коллекция Postman-тестов (smoke + negative):  
-  проверки статусов, тела ответа, ошибок, переменные окружения.  
-  **API:** Kinopoisk, Yandex Rasp, YouGile
-- **Yandex Rasp API (Postman)**  
-  Тестирование расписаний: маршруты, станции, параметры запросов
-- **Kinopoisk API**  
-  Поиск фильмов, получение данных по ID, негативные сценарии
-- **YouGile API**  
-  CRUD-операции, проверки авторизации и валидации ответов
----
+**Сейчас · Control Systems & Engineering**  
+ArduPilot и управляющие системы БПЛА: SITL, GPS/IMU, EKF, PID, Serial/RS-485/CAN, логи и диагностика.
 
-### 🐍 Мой репозиторий по Python  
-Учусь Python с нуля. Занимаюсь каждый день, веду отдельный репозиторий со всеми уроками, шпаргалками и мини-задачами.
-
-👉 [Перейти в репозиторий Python](https://github.com/imidg1825/python_training_2025)
-
----
-### 📘 Репозиторий с домашними заданиями SkyPro (Python)
-
-Это мой учебный репозиторий, куда я выкладываю домашние задания по курсу  
-**«Автоматизация тестирования на Python» (SkyPro)**.  
-Здесь — мои первые функции, циклы, работа с файлами, тестовые задачи и весь прогресс.
-
-👉 [Перейти в репозиторий python_lesson1](https://github.com/imidg1825/python_lesson1)
+> **QA для меня стал не этапом, который остался позади, а инженерным фундаментом разработки: проектировать → реализовывать → тестировать → анализировать → улучшать.**
 
 ---
 
-### 🧠 **Git-практика**
+## 🔧 Other Projects & Engineering
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT%20TRAINING-red?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Nutrition Coach Desktop** — desktop-приложение на React / TypeScript / Tauri.
 
-👉 **Репозиторий:**  
-[git_training_ivan](https://github.com/imidg1825/git-training-ivan)
+**Linkdock** — законченное Windows-приложение для организации и управления ссылками: Streamlit, SQLite, desktop-сборка.
 
-🛠 **Изучаю:** ветки, конфликты, мерджи, GitGraph, GitHub flow.
+**Multi-Agent Credit Economy LLM** — экспериментальный проект по исследованию взаимодействия нескольких LLM-агентов.
 
----
+**VPS & Network Infrastructure** — Linux/VPS, SSH, развёртывание сервисов и собственная VPN-инфраструктура на Xray / 3X-UI.
 
-## 🐳 Docker-практика
-
-<img src="https://img.shields.io/badge/DOCKER%20TRAINING-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-📁 **Репозиторий:**  
-[docker-training-ivan](https://github.com/imidg1825/docker-training-ivan)
-
-📝 **Изучаю:**  
-Контейнеры, образы, Dockerfile, зависимости Python внутри контейнера,  
-работа с портами и сетями, тома, основы Docker Compose, DevOps-подход.
-
-<a id="ai-mentor"></a>
----
-## 🤖 Мой AI-наставник — Python QA Mentor PRO
-Я создал собственного AI-наставника для обучения Python и QA Automation.  
-Он помогает разбирать код и ошибки, объясняет инструменты простым языком и
-помогает тренироваться на реальных QA-задачах.Если пользуешся chatgpt
- и тебе интересно переходи по ссылке
-👉 **Открыть AI-наставника:**  
-https://chatgpt.com/g/g-69312d733318819181e22b0fffe5c7fe-python-qa-mentor-pro
+**Small Apps & Experiments** — Day Planner, небольшие игры и другие экспериментальные приложения.
 
 ---
 
-## ⚡ Факты обо мне  
-- ❤️ Люблю порядок в данных и творческий хаос в жизни    
-- 🚀 Каждый день становлюсь лучше  
----
+## 📫 Contacts
 
-## ⚙️ Мои настройки VS Code
-В работе использую аккуратно настроенный VS Code с расширениями для Python, Docker, Git и удобного интерфейса.
-📦 **Мой список установленных расширений VS Code:**  
-👉 👉 [extensions-list.md](extensions-list.md)
-Этот список помогает быстро восстановить окружение на новом компьютере и показывает, с каким инструментарием я работаю ежедневно.
-## 📦 Дополнительные расширения VS Code (рекомендации)
-В будущем планирую расширять набор инструментов для Python, DevOps и документации.
-🔧 Рекомендации на будущее:  
-📁 [`extensions-recommended.txt`](./extensions-recommended.txt)
+Открыт к профессиональному общению, сотрудничеству и интересным инженерным задачам в направлениях **QA Automation, Full-Stack Development, AI Engineering и системной интеграции**.
+
+- Telegram: [@Ivan_Maznitsin](https://t.me/Ivan_Maznitsin)
+- Email: [imidg18251972@gmail.com](mailto:imidg18251972@gmail.com)
+- GitHub: [imidg1825](https://github.com/imidg1825)
 
 ---
 
-## 📫 Связаться со мной
-- 📬 Telegram: [@Ivan_Maznitsin](https://t.me/Ivan_Maznitsin)
-
-- Email: **imidg18251972@gmail.com**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting!-ff3333?style=for-the-badge" />
-</p>
+<p align="center"><strong>Thanks for visiting!</strong></p>
