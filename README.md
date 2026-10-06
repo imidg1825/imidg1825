@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Linux%20%2F%20Docker-Infrastructure-informational?logo=linux" />
 </p>
 
+<p align="center">
+  <img src="./engineering-console.png" alt="Ivan Maznitsyn — Engineering Console" width="100%" />
+</p>
+
 ## 👨‍💻 About Me
 
 Я **QA Engineer и Full-Stack Developer** с практическим опытом тестирования, автоматизации, веб-разработки, системной интеграции и AI-assisted development.
