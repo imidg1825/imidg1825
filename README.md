@@ -1,5 +1,6 @@
-<!-- New profile redesign. Add the saved banner as assets/profile-banner.png and uncomment the image below. -->
-<!-- <p align="center"><img src="./assets/profile-banner.png" alt="Ivan Maznitsyn — QA Engineer · Full-Stack Developer" width="100%" /></p> -->
+<p align="center">
+  <img src="./Баннер%20Гитхаб.png" alt="Ivan Maznitsyn — QA Engineer · Full-Stack Developer" width="100%" />
+</p>
 
 <h1 align="center">Ivan Maznitsyn</h1>
 <h3 align="center">QA Engineer · Full-Stack Developer · AI-Assisted Engineering</h3>
