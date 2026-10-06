@@ -70,7 +70,7 @@ QA остаётся фундаментом моей разработки: я н�
 
 **QA Engineering · Test Automation · API · UI/E2E · AI-Assisted Development**
 
-Практическая работа с аукционной платформой: тестирование реального web-приложения, автоматизация frontend/API-проверок, анализ дефектов и пользовательских сценариев.
+Практическая работа с аукционной платформой: тестирование реального web-приложения, автоматизация frontend/API-проверок, анализ дефектов и пользовательских сценариев. В рамках ручного QA подготовил **более 150 баг-репортов**, а также большое количество **test cases (тест-кейсов)** и **checklists (чек-листов)** для функциональных и регрессионных проверок.
 
 Автоматизированные наборы включают **118 UI-тестов** и отдельный API-набор из **78 тестов сценариев регистрации**.
 
@@ -120,19 +120,20 @@ AI используется как инженерный инструмент: п
 
 **Manual Testing → API Testing → Test Automation → Quality-Driven Development**
 
-QA-подход остаётся частью моей инженерной работы: функциональное и регрессионное тестирование, API, UI/E2E, интеграционные сценарии, базы данных, анализ дефектов и проверка бизнес-логики.
+QA-подход остаётся частью моей инженерной работы: **test design (тест-дизайн), test cases (тест-кейсы), checklists (чек-листы), bug reports (баг-репорты)**, функциональное и регрессионное тестирование, API, UI/E2E, интеграционные сценарии, базы данных, анализ дефектов и проверка бизнес-логики. Тестовую документацию применял в реальных проектах, включая **Akatosfera** и **Vita / iHealth**.
 
 Автоматизацию использую как часть процесса разработки. Новая функциональность сопровождается проверками и релевантными автотестами; в подходящих задачах применяю практики **TDD (Test-Driven Development — разработка через тестирование)**.
 
 AI-assisted код также проходит инженерную валидацию: тесты, type checks, quality checks, пользовательские и интеграционные сценарии.
 
-**Основные направления:** `Manual QA` · `Functional Testing` · `Regression Testing` · `API Testing` · `Integration Testing` · `UI / E2E` · `Test Design` · `SQL / Database Testing` · `Test Automation` · `CI/CD`
+**Основные направления:** `Manual QA` · `Test Design` · `Test Cases` · `Checklists` · `Bug Reporting` · `Functional Testing` · `Regression Testing` · `API Testing` · `Integration Testing` · `UI / E2E` · `SQL / Database Testing` · `Test Automation` · `CI/CD`
 
 **Инструменты:** `Python` · `Pytest` · `Playwright` · `Selenium` · `Postman` · `Allure` · `Git / GitHub / GitLab` · `Jira / TestIT`
 
 ### Selected QA Projects
 
-- **Akatosfera Auction Platform** — 118 UI-тестов Playwright/pytest + 78 API-тестов сценариев регистрации.
+- **Akatosfera Auction Platform** — более 150 баг-репортов, test cases и checklists + 118 UI-тестов Playwright/pytest + 78 API-тестов сценариев регистрации.
+- **Vita / iHealth** — test cases, checklists, bug reporting, functional, integration, API, E2E и regression testing для связанных сценариев Patient App ↔ Clinician App.
 - **Kinopoisk UI & API Automation** — самостоятельный проект автоматизации UI и API.
 - **SauceDemo / HandmadeMarket / Postman Collections** — развитие от базового QA и API к автоматизации.
 
