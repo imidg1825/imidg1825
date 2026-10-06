@@ -42,7 +42,7 @@ QA остаётся фундаментом моей разработки: я н�
 
 Спроектировал и реализовал интеграцию **Vita Patient App ↔ Clinician App** через общую Supabase, интеграционные контракты и единые клинические данные. В разработке Clinician App выполнял координирующую роль: определял требования общей системы, контролировал совместимость с Vita и интеграционными контрактами, участвовал в проверке и корректировке реализации.
 
-Экосистема включает сквозные сценарии «пациент — врач»: чат, вложения, appointments, diagnoses, prescriptions, versioning clinical changes, patient acknowledgements, medication adherence, Health History, Medical Documents, Doctor Report, notifications, Devices & Sensors и SOS.
+Экосистема включает AI Chat для вопросов пациента нейросети о своём состоянии, а также сквозные сценарии «пациент — врач»: чат, вложения, appointments, diagnoses, prescriptions, versioning clinical changes, patient acknowledgements, medication adherence, Health History, Medical Documents, Doctor Report, notifications, Devices & Sensors и SOS.
 
 **Stack:** `React` · `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `SQL` · `API` · `GitLab`
 
