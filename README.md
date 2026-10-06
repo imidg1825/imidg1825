@@ -6,7 +6,9 @@
 <h3 align="center">QA Engineer · Full-Stack Developer · AI-Assisted Engineering</h3>
 
 <p align="center">
-  <strong>QA Engineering → Test Automation → Full-Stack Development → AI-Assisted Engineering</strong>
+  <strong><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E53935&center=true&vCenter=true&width=760&lines=QA+Engineering+%E2%86%92+Test+Automation;Full-Stack+Development+%E2%86%92+System+Integration;AI-Assisted+Engineering+%E2%86%92+AI+Agents;Control+Systems+%E2%86%92+ArduPilot" alt="Engineering focus" />
+</p></strong>
 </p>
 
 <p align="center">
