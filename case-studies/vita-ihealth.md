@@ -41,6 +41,7 @@ Vita / iHealth — интегрированная медицинская эко�
 ### Patient App
 
 - Dashboard и Health Check-in
+- **AI Chat** — пациент может задавать нейросети вопросы о своём состоянии и получать AI-ответы; в текущей реализации используется Grok
 - Conditions / diagnoses
 - Prescriptions и версии назначений
 - Appointments и подтверждение визитов
