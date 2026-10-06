@@ -212,7 +212,7 @@ ArduPilot и управляющие системы БПЛА: SITL, GPS/IMU, EKF,
 Открыт к профессиональному общению, сотрудничеству и интересным инженерным задачам в направлениях **QA Automation, Full-Stack Development, AI Engineering и системной интеграции**.
 
 - Telegram: [@imidg1972](https://t.me/imidg1972)
-- Email: [imidg1972@gmail.com](mailto:imidg1972@gmail.com)
+- Email: [imidg18251972@gmail.com](mailto:imidg18251972@gmail.com)
 - GitHub: [imidg1825](https://github.com/imidg1825)
 
 ---
