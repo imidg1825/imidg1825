@@ -128,14 +128,17 @@ AI-assisted код также проходит инженерную валида
 
 **Основные направления:** `Manual QA` · `Test Design` · `Test Cases` · `Checklists` · `Bug Reporting` · `Functional Testing` · `Regression Testing` · `API Testing` · `Integration Testing` · `UI / E2E` · `SQL / Database Testing` · `Test Automation` · `CI/CD`
 
-**Инструменты:** `Python` · `Pytest` · `Playwright` · `Selenium` · `Postman` · `Allure` · `Git / GitHub / GitLab` · `Jira / TestIT`
+**Инструменты:** `Python` · `Pytest` · `Playwright` · `Selenium` · **`Postman`** · `Allure` · `Git / GitHub / GitLab` · `Jira / TestIT`
+
+**Postman:** практическая работа с REST API — отправка и проверка запросов, headers / parameters / body, авторизация, анализ response status и response body, работа с API collections (коллекциями) и проверка API-сценариев.
 
 ### Selected QA Projects
 
 - **Akatosfera Auction Platform** — более 150 баг-репортов, test cases и checklists + 118 UI-тестов Playwright/pytest + 78 API-тестов сценариев регистрации.
 - **Vita / iHealth** — test cases, checklists, bug reporting, functional, integration, API, E2E и regression testing для связанных сценариев Patient App ↔ Clinician App.
 - **Kinopoisk UI & API Automation** — самостоятельный проект автоматизации UI и API.
-- **SauceDemo / HandmadeMarket / Postman Collections** — развитие от базового QA и API к автоматизации.
+- **Postman API Collections** — практическое API-тестирование и работа с коллекциями запросов в Postman.
+- **SauceDemo / HandmadeMarket** — развитие от базового QA к UI-автоматизации.
 
 ---
 
