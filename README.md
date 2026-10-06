@@ -48,6 +48,8 @@ QA остаётся фундаментом моей разработки: я н�
 
 **Status:** `Demo MVP approved → First Release`
 
+**[🏥 Vita / iHealth — Case Study & Architecture](./case-studies/vita-ihealth.md)**
+
 > Корпоративный исходный код не публикуется. В портфолио проект представлен как case study без раскрытия закрытого кода и данных.
 
 ### ✈️ ArduPilot / Control Systems — In Progress
