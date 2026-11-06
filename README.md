@@ -33,12 +33,18 @@
 **🏥 Vita / iHealth — Medical AI Privacy Gate**  
 Многоступенчатая защита медицинских данных перед обращением к внешним LLM: проверки, блокировка небезопасных запросов, автоматизированное тестирование.
 
-<!-- Vita screenshot to be added: screenshots/vita-ai-chat-privacy.png -->
+<p align="center">
+  <img src="./вита скрин Гитхаб.png" alt="Vita AI Health Assistant — AI Chat и статусы проверки персональных данных" width="85%" />
+</p>
+<p align="center"><sub>Vita AI Health Assistant: AI Chat, примеры запросов и результаты проверки конфиденциальности.</sub></p>
 
 **💬 OpenClaw / MAX — Local AI Privacy Gateway**  
 Локальное обезличивание сообщений и DOCX-документов с восстановлением исходных данных в ответах. Проверено тестами и аудитом.
 
-<!-- MAX screenshot to be added: screenshots/max-document-privacy-gateway.png -->
+<p align="center">
+  <img src="./макс.jpg" alt="OpenClaw / MAX — шлюз обезличивания DOCX с запросом подтверждения" width="70%" />
+</p>
+<p align="center"><sub>OpenClaw / MAX: обнаружение названий организаций в DOCX, выбор режима обезличивания и уведомление перед передачей в ИИ.</sub></p>
 
 **Engineering Approach:** `QA Automation` · `TDD` · `Security Testing` · `Integration Testing`
 
