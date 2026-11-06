@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E53935&center=true&vCenter=true&width=760&lines=QA+Engineering+%E2%86%92+Test+Automation;Full-Stack+Development+%E2%86%92+System+Integration;AI-Assisted+Engineering+%E2%86%92+AI+Agents;Control+Systems+%E2%86%92+ArduPilot" alt="Engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E53935&center=true&vCenter=true&width=760&lines=QA+Engineering+%E2%86%92+Test+Automation;Full-Stack+Development+%E2%86%92+System+Integration;AI-Assisted+Engineering+%E2%86%92+AI+Agents;Control+Systems+%E2%86%92+ArduPilot;Security+Engineer+%E2%86%92+AI+Data+Protection" alt="Engineering focus" />
 </p></strong>
 </p>
 
@@ -23,6 +23,34 @@
 <p align="center">
   <img src="./engineering-console.png" alt="Ivan Maznitsyn — Engineering Console" width="100%" />
 </p>
+
+## 🛡️ Security Engineering
+
+**Current Focus · AI Data Protection**
+
+В настоящее время занимаюсь разработкой и интеграцией шлюзов безопасности для взаимодействия приложений с внешними ИИ-моделями. Основное направление — **контроль и защита информации, передаваемой во внешние нейросети**: обнаружение чувствительных данных, обезличивание, фильтрация и управление передачей в соответствии с требованиями организации. Защита не ограничивается персональными данными и может адаптироваться под другие категории конфиденциальной информации.
+
+**🏥 Vita / iHealth — Medical AI Privacy Gate**  
+Многоступенчатая защита медицинских данных перед обращением к внешним LLM: проверки, блокировка небезопасных запросов, автоматизированное тестирование.
+
+<p align="center">
+  <img src="./вита скрин Гитхаб.png" alt="Vita AI Health Assistant — AI Chat и статусы проверки персональных данных" width="85%" />
+</p>
+<p align="center"><sub>Vita AI Health Assistant: AI Chat, примеры запросов и результаты проверки конфиденциальности.</sub></p>
+
+**💬 OpenClaw / MAX — Local AI Privacy Gateway**  
+Локальное обезличивание сообщений и DOCX-документов с восстановлением исходных данных в ответах. Проверено тестами и аудитом.
+
+<p align="center">
+  <img src="./макс.jpg" alt="OpenClaw / MAX — шлюз обезличивания DOCX с запросом подтверждения" width="70%" />
+</p>
+<p align="center"><sub>OpenClaw / MAX: обнаружение названий организаций в DOCX, выбор режима обезличивания и уведомление перед передачей в ИИ.</sub></p>
+
+**Engineering Approach:** `QA Automation` · `TDD` · `Security Testing` · `Integration Testing`
+
+<sub>Примечание. Работа со сведениями, составляющими государственную тайну, регулируется отдельными требованиями и не входит в описанные решения. Для таких задач необходимы специализированные уполномоченные организации и процедуры. По запросу могу подсказать, куда обратиться для консультации.</sub>
+
+---
 
 ## 👨‍💻 About Me
 
