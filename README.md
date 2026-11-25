@@ -66,7 +66,7 @@ QA остаётся фундаментом моей разработки: я н�
 
 ## 🚀 Featured Work
 
-### 🏥 Vita / iHealth — Digital Healthcare Ecosystem
+### 🏥 ![Vita / iHealth — Digital Healthcare Ecosystem](./assets/project-headings/vita.svg)
 
 **Full-Stack Development · QA Engineering · System Integration · AI-Assisted Development**
 
@@ -86,7 +86,9 @@ QA остаётся фундаментом моей разработки: я н�
 
 > Корпоративный исходный код не публикуется. В портфолио проект представлен как case study без раскрытия закрытого кода и данных.
 
-### 🎓 Python Interview Academy — AI-Powered Learning Platform
+---
+
+### 🎓 ![Python Interview Academy — AI-Powered Learning Platform](./assets/project-headings/python-academy.svg)
 
 **AI Agents · Full-Stack Development · EdTech · Gamification · QA Engineering · AI-Assisted Development**
 
@@ -125,7 +127,9 @@ https://github.com/user-attachments/assets/2b08942f-f65b-4a96-aeb5-62ea8a6d47a2
 
 Первый курс находится на завершающей стадии разработки. Второй и третий курсы запланированы. Отдельный репозиторий проекта будет создан после завершения текущего этапа разработки.
 
-### ✈️ ArduPilot / Control Systems — In Progress
+---
+
+### ✈️ ![ArduPilot / Control Systems — In Progress](./assets/project-headings/ardupilot.svg)
 
 **Control Systems · Software Engineering · Testing & Diagnostics**
 
@@ -137,7 +141,9 @@ https://github.com/user-attachments/assets/2b08942f-f65b-4a96-aeb5-62ea8a6d47a2
 
 **Status:** `Active Project · In Progress`
 
-### 🧪 Akatosfera — QA Automation & AI-Assisted Product Development
+---
+
+### 🧪 ![Akatosfera — QA Automation & AI-Assisted Product Development](./assets/project-headings/akatosfera.svg)
 
 **QA Engineering · Test Automation · API · UI/E2E · AI-Assisted Development**
 
@@ -149,7 +155,9 @@ https://github.com/user-attachments/assets/2b08942f-f65b-4a96-aeb5-62ea8a6d47a2
 
 **Stack:** `Python` · `Pytest` · `Playwright` · `API` · `Allure` · `CI/CD` · `Git` · `GitHub`
 
-### 🤖 CareerOS — AI Career & Freelance Automation System
+---
+
+### 🤖 ![CareerOS — AI Career & Freelance Automation System](./assets/project-headings/careeros.svg)
 
 **Python · AI Agents · Automation · Telegram · Web · Testing**
 
@@ -161,7 +169,9 @@ https://github.com/user-attachments/assets/2b08942f-f65b-4a96-aeb5-62ea8a6d47a2
 
 **Status:** `Personal Product · AI Automation · Working Prototype`
 
-### 🧠 AI Engineering — LLM, Agents & AI Infrastructure
+---
+
+### 🧠 ![AI Engineering — LLM, Agents & AI Infrastructure](./assets/project-headings/ai-engineering.svg)
 
 **LLM · AI Agents · Fine-tuning · Datasets · VPS · AI-Assisted Engineering**
 
@@ -173,7 +183,9 @@ AI используется как инженерный инструмент: п
 
 **Areas:** `LLM` · `AI Agents` · `Fine-tuning` · `Datasets` · `LM Studio` · `Python` · `VPS` · `Linux` · `Telegram` · `Git`
 
-### 🦊 CleverFoxBot / «Хорошие Бассейны» — AI Business Automation
+---
+
+### 🦊 ![CleverFoxBot / «Хорошие Бассейны» — AI Business Automation](./assets/project-headings/cleverfox.svg)
 
 **Business Analysis · AI Architecture · Telegram Bot · Applied AI**
 
