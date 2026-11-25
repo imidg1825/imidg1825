@@ -114,9 +114,12 @@ QA остаётся фундаментом моей разработки: я н�
 
 <p align="center"><em>Интерактивная карта обучения — 12 модулей, 60 занятий.</em></p>
 
-**Демонстрационное видео Python Interview Academy**
+<details>
+<summary><strong>▶ Смотреть демонстрационное видео (33 сек.)</strong></summary>
 
 https://github.com/user-attachments/assets/2b08942f-f65b-4a96-aeb5-62ea8a6d47a2
+
+</details>
 
 **Status:** `Active Development · Personal AI/EdTech Product`
 
